@@ -1,0 +1,15 @@
+Index: WheatherAppTest/app/src/main/java/com/example/wheatherapptest/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- WheatherAppTest/app/src/main/java/com/example/wheatherapptest/MainActivity.kt	(revision aada91541a5bbbe34fe1e04ce449a718e20b50cf)
++++ WheatherAppTest/app/src/main/java/com/example/wheatherapptest/MainActivity.kt	(date 1615923289303)
+@@ -7,5 +7,6 @@
+     override fun onCreate(savedInstanceState: Bundle?) {
+         super.onCreate(savedInstanceState)
+         setContentView(R.layout.activity_main)
++
+     }
+ }
+\ No newline at end of file
